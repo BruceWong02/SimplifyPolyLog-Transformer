@@ -1,0 +1,9 @@
+.vscode/
+data/
+checkpoints/
+test_data/
+drafts/
+draft*
+__pycache__/
+*figs*
+temp*
